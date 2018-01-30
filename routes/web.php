@@ -13,5 +13,6 @@
 
 Route::get('/', function () {
     //return view('welcome');
-    return view('saudacao');
+    //return view('saudacao');
+    return view('saudacoes2');
 });
